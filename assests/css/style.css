@@ -154,5 +154,5 @@
 
 .data-display{
     height: 50vh;
-    overflow-y: scroll;
+    overflow: scroll;
 }
